@@ -1,20 +1,19 @@
 # MyChatApp
-Basic Real Time Chat App
+Basic Real Time Chat App based on Firebase Database.
 
-Features
+# Features
 
-Facebook Log In
-Google Sign In
-Email/Pass Registration / Log In
-Real Time Chat
-Photo Messages
-Video Messages
-Location Messages
-Search for Users
-Deleting Conversations
-User Profile
-Dark Mode Support
+- Facebook Log In
+- Google Log In
+- Email/Pass Sign Up / Sign In
+- Real Time Chat
+- Photo Messages
+- Video Messages
+- Location Messages
+- Search for Users
+- User Profile picture upload
+- Dark Mode Support
 
-Set Up
+# Set Up
 
 After cloning the repo, you'll need to run 'pod init'. Replace created Podfile with downloaded from repo and run 'pod install' to install all dependencies.
